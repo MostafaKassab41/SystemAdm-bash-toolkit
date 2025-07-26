@@ -69,19 +69,19 @@ sudo ./sys_adm.sh
 ---
 
 ## 🖥️ Screenshots
+***Some screenshots while using..
+You can find more under ScreenShots/***
 
 🧑 **User Management**
-![User_list](/ScreenShots/user_list.jpg)    ![User_Add](/ScreenShots/user_add.jpg) 
-
+![User_list](/ScreenShots/user_list.jpg)  
 ![User_Modify](/ScreenShots/user_mod.jpg)
-
-![User_Delete](/ScreenShots/user_del1.jpg)  ![User_Delete_conf](/ScreenShots/user_del2.jpg)
+![User_Delete_conf](/ScreenShots/user_del2.jpg)
 
 
 👥 **Group Management**
-![group_list](/ScreenShots/group_list.jpg)    ![User_Delete](/ScreenShots/group_del.jpg) 
-
+![group_list](/ScreenShots/group_list.jpg)    
 ![Group_Modify](/ScreenShots/group_mod.jpg)
+![User_Delete](/ScreenShots/group_del.jpg) 
 
 ---
 
