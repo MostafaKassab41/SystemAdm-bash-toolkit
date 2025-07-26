@@ -91,9 +91,6 @@ You can find more under ScreenShots/***
 
 ---
 
-## 👨‍💻 Author
-Mostafa Kassab
-
 ## ✅ Acknowledgments
 - Inspired by the need for a simple, script-based administration tool.
 - Thanks to the whiptail community for providing a robust text-based UI solution.
@@ -101,3 +98,5 @@ Mostafa Kassab
 ## 📧 Contact
 For questions or support, please open an issue on the GitHub repository or contact the maintainer at mostafa.kassab41@gmail.com
 
+## 👨‍💻 Author
+***Mostafa Kassab***
