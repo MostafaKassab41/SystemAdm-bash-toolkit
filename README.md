@@ -73,14 +73,20 @@ sudo ./sys_adm.sh
 You can find more under ScreenShots/***
 
 🧑 **User Management**
+
 ![User_list](/ScreenShots/user_list.jpg)  
+
 ![User_Modify](/ScreenShots/user_mod.jpg)
+
 ![User_Delete_conf](/ScreenShots/user_del2.jpg)
 
 
 👥 **Group Management**
+
 ![group_list](/ScreenShots/group_list.jpg)    
+
 ![Group_Modify](/ScreenShots/group_mod.jpg)
+
 ![User_Delete](/ScreenShots/group_del.jpg) 
 
 ---
